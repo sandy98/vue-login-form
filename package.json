@@ -1,10 +1,10 @@
 {
   "name": "vue-login-form",
   "version": "1.0.0",
-  "authors": [
-              "Domingo E. Savoretti <esavoretti@gmail.com>",
-              "Federico Chiosone <ficochiosone@gmail.com>"
-             ],
+  "authors": {
+              "author2": "Domingo E. Savoretti <esavoretti@gmail.com>",
+              "author1": "Federico Chiosone <ficochiosone@gmail.com>"
+             },
   "main": "dist/login-form.min.js",
   "files": [
     "dist/"
