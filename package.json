@@ -1,0 +1,22 @@
+{
+  "name": "vue-login-form",
+  "version": "1.0.0",
+  "authors": [
+              "Domingo E. Savoretti <esavoretti@gmail.com>",
+              "Federico Chiosone <ficochiosone@gmail.com>"
+             ],
+  "main": "dist/login-form.min.js",
+  "files": [
+    "dist/"
+  ],
+  "keywords": [
+    "web-component",
+    "vue.js",
+    "login-form",
+  ],
+  "license": "MIT",
+  "scripts": {
+    "build": "vue build -t wc login-form.vue",
+    "clean": "rm -r ./dist/"
+  }
+}
