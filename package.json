@@ -1,5 +1,5 @@
 {
-  "name": "vue-login-form",
+  "name": "yav-login-form",
   "version": "1.0.0",
   "authors": {
               "author2": "Domingo E. Savoretti <esavoretti@gmail.com>",
@@ -13,6 +13,7 @@
     "web-component",
     "vue.js",
     "login-form",
+    "yet-another-vue-login-form"
   ],
   "license": "MIT",
   "scripts": {
